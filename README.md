@@ -1,7 +1,7 @@
 # google-access-helper全版本合集
 ## 说明
 
-- google-access-helper仅为用户提供访问谷歌商店，谷歌搜索，谷歌地图，谷歌邮箱等功能，其他被墙网站一律不支持
+- google-access-helper仅为用户提供访问谷歌商店，谷歌搜索，谷歌地图，谷歌邮箱等功能
 - 请勿用于非法用途，仅用于资料查询等工作日常所需
 - 此仓库仅作为网络上各版本的google-access-helper汇总更新所使用
 ## 注意
